@@ -25,10 +25,11 @@ This calculator app is designed to perform basic mathematical calculations like 
 ## 📂 Project Structure
 
 basic calculator/
-├── index.html      # Main HTML structure
-├── styles.css      # CSS styling 
-├── script.js       # JavaScript functionality
-└── README.md       # Project documentation
+
+├── index.html      
+├── styles.css      
+├── script.js       
+└── README.md       
 
 
 
