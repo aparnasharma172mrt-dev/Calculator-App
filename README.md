@@ -36,8 +36,3 @@ basic calculator/
 
 The purpose of this project is to practice JavaScript functionality, DOM manipulation, event handling, and create a functional frontend application.
 
-## 👩‍💻 Author
-
-**Aparna Sharma**
-
-Frontend Developer | Computer Science Student
